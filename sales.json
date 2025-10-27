@@ -1,0 +1,53 @@
+[
+  {
+    "transaction_id": "TXN_20251026_201845",
+    "customer_name": "MOHIT JAIN",
+    "timestamp": "2025-10-26T20:18:45.510797",
+    "items": [
+      {
+        "product_id": "P001",
+        "name": "Laptop",
+        "price": 45000.0,
+        "quantity": 1,
+        "total": 45000.0
+      }
+    ],
+    "total_amount": 45000.0,
+    "payment_amount": 45000.0,
+    "change": 0.0
+  },
+  {
+    "transaction_id": "TXN_20251026_201918",
+    "customer_name": "Walk-in Customer",
+    "timestamp": "2025-10-26T20:19:18.159255",
+    "items": [
+      {
+        "product_id": "P002",
+        "name": "Mouse",
+        "price": 500.0,
+        "quantity": 1,
+        "total": 500.0
+      }
+    ],
+    "total_amount": 500.0,
+    "payment_amount": 500.0,
+    "change": 0.0
+  },
+  {
+    "transaction_id": "TXN_20251026_203026",
+    "customer_name": "NIKHIL KHILWANI",
+    "timestamp": "2025-10-26T20:30:26.417902",
+    "items": [
+      {
+        "product_id": "P006",
+        "name": "Coffee Mug",
+        "price": 200.0,
+        "quantity": 2,
+        "total": 400.0
+      }
+    ],
+    "total_amount": 400.0,
+    "payment_amount": 400.0,
+    "change": 0.0
+  }
+]

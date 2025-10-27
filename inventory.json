@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop",
+    "price": 45000.0,
+    "quantity": 14,
+    "category": "Electronics",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P002",
+    "name": "Mouse",
+    "price": 500.0,
+    "quantity": 7,
+    "category": "Electronics",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P003",
+    "name": "Keyboard",
+    "price": 1200.0,
+    "quantity": 5,
+    "category": "Electronics",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P004",
+    "name": "Notebook",
+    "price": 50.0,
+    "quantity": 25,
+    "category": "Stationery",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P005",
+    "name": "Pen",
+    "price": 10.0,
+    "quantity": 3,
+    "category": "Stationery",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P006",
+    "name": "Coffee Mug",
+    "price": 200.0,
+    "quantity": 10,
+    "category": "Kitchen",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P007",
+    "name": "Water Bottle",
+    "price": 300.0,
+    "quantity": 7,
+    "category": "Kitchen",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P008",
+    "name": "T-Shirt",
+    "price": 500.0,
+    "quantity": 20,
+    "category": "Clothing",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P009",
+    "name": "Jeans",
+    "price": 1500.0,
+    "quantity": 4,
+    "category": "Clothing",
+    "min_stock_threshold": 10
+  },
+  {
+    "product_id": "P010",
+    "name": "Shoes",
+    "price": 2500.0,
+    "quantity": 6,
+    "category": "Clothing",
+    "min_stock_threshold": 10
+  }
+]
